@@ -1,0 +1,56 @@
+body{
+    background-image: url(imagenes/fondo.jpg);
+    padding: 50px;
+
+}
+header{
+    background: linear-gradient(#138D75,#85C1E9);
+    width:100%;
+    margin-bottom: 2%;
+    padding: 15px;
+}    
+    h1{
+        background-color:  #083c46;
+        width:80%;   
+        font-family: "Saira Stencil One", sans-serif;
+         } 
+    .nacio h1{
+        background-color:#5785e7;
+        width:80%;
+        margin-top: 5%;
+        font-family: "Saira Stencil One", sans-serif;
+       
+    }
+    .experiencia h1{
+        background-color:  #5785e7;
+        width:80%;
+        margin-top: 5%;
+        font-family: "Saira Stencil One", sans-serif;
+    }
+    .conteiner-md div ul li{
+        display: flex;
+        flex-direction: row;
+       font-size: 30px;
+       color:antiquewhite;
+
+    }
+    .conteiner-md a{
+        text-decoration: none;
+    }
+    .conteiner-md img{
+        justify-content: center;
+        width:200px;
+
+    height: 200px;
+
+    }
+    .conteiner-md h1{
+        background-color: #105a70;
+        text-align: center;
+        color:antiquewhite;
+
+    }
+    footer {
+        display: flex;
+        justify-content: center;}
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Slab:wght@100..900&family=Saira+Stencil+One&display=swap')

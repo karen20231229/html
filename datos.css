@@ -1,0 +1,59 @@
+
+
+
+.contenedor-fluid{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    background:linear-gradient(#31b9f8d8,#167c77d8) ;
+   
+}
+.contenedor-fluid img{
+   
+    width: 400px;
+    height: 450px;
+    margin-left: 10px;
+    padding: 60px;
+}
+
+.contenedor-fluid p{
+   
+    text-align: center;
+}
+.contenedor-fluid h1{
+    color:aliceblue;
+    text-align: center;
+    
+}
+
+#carousel{
+    background-image:url("imagenes/mar.jpg");
+   
+    margin: 7%;
+}
+p{
+    font-family: "Roboto Slab", serif;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: justify;
+
+}
+ol{
+    font-family: "Roboto Slab", serif;
+    font-size: 20px;
+    color: aliceblue;
+}
+.contenedor h1{
+    background-color:#5785e7;
+}
+#contenido div{
+    display: none;
+}
+button {
+    color: white;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+  }
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap')
+
